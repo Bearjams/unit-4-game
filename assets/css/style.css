@@ -1,0 +1,91 @@
+h1{
+    color: white;
+    background-color: orange;
+    margin-left: 100ox;
+    width: 80%;
+    text-align: center;
+}
+body{
+  background-image: url(http://freehtmldesigns.com/wp-content/uploads/2017/09/CSS-Background-Pattern-1-1-660x330.png);  
+}
+
+
+#diamond{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;  
+}
+
+#sapphire{
+    width: 100px;
+    height: 100px;  
+    margin-left: 10px; 
+}
+
+#emerald{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px; 
+}
+
+#ruby{
+    width: 100px;
+    height: 100px;
+    margin-left: 10px; 
+
+}
+#instructions{
+    color: green;
+    border: 1px solid;
+    font-size: 24px;
+    background-color: beige;
+    padding: 5px;
+
+}
+#number-wins{
+    float: right;
+}
+#number-losses{
+    float: right;
+}
+.padding{
+    padding-left: 10px;
+}
+h2{
+    background-color: greenyellow;
+    height: 100px;
+    width: 85%;
+    padding: 5px;
+}
+h4{
+    border: 1px;
+    background-color: aqua;
+    height: 50px;
+    
+       
+}
+
+#final-total{
+    color: white;
+    background-color: darkgreen;
+    width: 20%;
+    height: 150px;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h3{
+    color: white;
+    background-color: darkgreen;
+    width: 20%;
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 10px;
+}
+#usertotal{
+    color: white;
+    font-size: 24px;
+}
